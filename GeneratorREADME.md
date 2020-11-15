@@ -38,6 +38,8 @@
 
   Email: hevercalles@gmail.com
 
-![](assets/filname generator1.png)
+![](assets/generator1.png)
+
+![](assets/generator2.png)
 
     
